@@ -1,0 +1,10 @@
+[
+    {
+        "Name": "SearchApi",
+        "ServerType": {
+            "Name": "App",
+            "OperatingSystem": "Windows"
+        },
+        "DeployScript": "echo.ps1"
+    }
+]

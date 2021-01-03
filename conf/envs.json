@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "QA",
+        "Servers": [
+            {
+                "Name": "fx2-dev-app",
+                "ServerType": {
+                    "Name": "App",
+                    "OperatingSystem": "Windows"
+                }
+            }
+        ],
+        "Variables": [
+            {
+                "Name": "dbserver",
+                "Value": "fx2-dev-sql"
+            }
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "QuasarCli": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\brianr\\Dropbox\\Code\\Deployments\\bin\\netcoreapp2.0"
+    }
+  }
+}
